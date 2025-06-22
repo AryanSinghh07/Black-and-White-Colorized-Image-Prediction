@@ -1,6 +1,7 @@
 # 🎨 Black and White Image Colorization using Deep Learning
 
 Bring your old black-and-white photos to life by automatically adding colors using a deep learning model! This project uses a pre-trained neural network to predict realistic colors for grayscale images.
+![Image](https://github.com/user-attachments/assets/179a0a5d-3f52-4f85-9b67-2b96c2c61768)
 
 ---
 
